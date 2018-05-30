@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "diangr <diangr2921@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "Js"
+  ],
+  "homepage": "https://github.com/diangr/test",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "bootstrap4#^4.1.1"
+  }
+}
